@@ -1,0 +1,36 @@
+@import url('https://fonts.maateen.me/solaiman-lipi/font.css');
+
+*
+{
+    font-family: SolaimanLipi;
+}
+
+.radio input[type=radio] {
+    cursor: pointer;
+    opacity: 2 !important;
+    z-index: 1;
+    outline: 0 !important;
+}
+
+.quiz-text{
+    color: #09c4fb !important;
+    font-weight: bold;
+}
+
+.quiz-bg{
+    background: #09c4fb !important;
+
+}
+.quiz-border{
+    border: 1px #09c4fb solid;
+}
+
+.quiz-shade{
+    background: #f0fbff;
+}
+
+
+
+.f-22{
+    font-size: 18px !important;
+}
